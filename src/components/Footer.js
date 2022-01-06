@@ -7,7 +7,6 @@ import twitterLogo from "../assets/twitter.svg";
 import instagramLogo from "../assets/instagram.svg";
 import { Button } from "../styles/Button.styled";
 import { Container } from "../styles/Container.styled";
-import { Flex } from "../styles/Flex.styled";
 import {
   Copyright,
   FooterCard,
