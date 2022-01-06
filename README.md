@@ -25,6 +25,7 @@ Users should be able to:
 ### Links
 
 - GitHub URL: [Hubble Landing Page](https://github.com/monciego/huddle-landing-page)
+- Live Site URL: [Hubble Landing Page](https://huddle-monciego.netlify.app/)
 
 ### Built with
 
