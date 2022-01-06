@@ -19,7 +19,7 @@ export const Nav = styled.nav`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 5rem;
+  height: 6.5rem;
   margin-bottom: 3.5rem;
 
   @media all and (min-width: ${({ theme }) => theme.breakpoints.sm}) {
