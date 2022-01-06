@@ -49,6 +49,7 @@ export const HeaderTitle = styled.h1`
   font-size: 2rem;
   text-align: center;
   font-weight: 600;
+  font-family: ${({ theme }) => theme.fontFamily.poppins};
 
   @media all and (max-width: ${({ theme }) => theme.breakpoints.xs}) {
     font-size: 1.85rem;
