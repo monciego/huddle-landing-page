@@ -6,6 +6,7 @@ import { contents } from "./content";
 import { Container } from "./styles/Container.styled";
 import Card from "./components/Card";
 import { StyledCards } from "./styles/Card.styled";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             })}
           </StyledCards>
         </Container>
+        <Footer />
       </ThemeProvider>
     </>
   );

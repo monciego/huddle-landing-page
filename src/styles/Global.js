@@ -13,6 +13,11 @@ const GlobalStyles = createGlobalStyle`
         font-family: ${({ theme }) => theme.fontFamily.OpenSans};
     }   
 
+    a{
+        color: inherit;
+        text-decoration: none;
+    }
+
     p{
         color: ${({ theme }) => theme.colors.grayishBlue};
         line-height: 1.5;
